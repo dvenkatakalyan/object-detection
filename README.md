@@ -4,7 +4,9 @@
 object detection using yolov5 and deploying it using Flask framework.
 
 
-## Flow chart
+# Flow chart
+![Flow chart](Flow_chart.PNG)
+
 ## Appendix
 
 1) Using the upload button on webpage the user uploads the image in which objects need to be detected.
@@ -49,3 +51,6 @@ Run
 1) upload image using the upload button on UI.
 
 2) predict button is used to display the predicted output.
+
+# Demo
+![Demo](demo.gif)
